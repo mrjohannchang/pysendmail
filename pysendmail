@@ -8,11 +8,10 @@ import email.mime.multipart
 import email.mime.text
 import os
 import smtplib
-import socket
 import sys
 
 
-__author__ = 'Chang, Yu-Heng'
+__author__ = 'Johann Chang <mr.changyuheng@gmail.com>'
 
 
 def get_arguments():
